@@ -72,7 +72,7 @@ const Footer = () => {
                 placeholder="Enter your email"
                 className="p-3 rounded-s-xl bg-white w-full py-4 focus:ring-0 focus:outline-none placeholder:text-dark2"
               />
-              <button className="bg-primary text-white font-semibold py-4 px-6 rounded-e-xl">
+              <button className=" text-white font-semibold py-4 px-6 rounded-e-xl bg-green-600">
                 Go
               </button>
             </div>
