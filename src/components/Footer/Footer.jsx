@@ -79,16 +79,16 @@ const Footer = () => {
             {/* social icons */}
             <div className="flex space-x-6 py-3">
               <a href="https://chat.whatsapp.com0">
-                <FaWhatsapp className="cursor-pointer hover:text-primary hover:scale-105 duration-200 bg-green-600" />
+                <FaWhatsapp className="cursor-pointer hover:text-green-600 hover:scale-105 duration-200 " />
               </a>
               <a href="https://www.instagram.com/">
-                <FaInstagram className="cursor-pointer hover:text-primary hover:scale-105 duration-200 bg-green-600" />
+                <FaInstagram className="cursor-pointer hover:text-green-600 hover:scale-105 duration-200 " />
               </a>
               <a href="https://thec.com/">
-                <TbWorldWww className="cursor-pointer hover:text-primary hover:scale-105 duration-200 bg-green-600" />
+                <TbWorldWww className="cursor-pointer hover:text-green-600 hover:scale-105 duration-200 " />
               </a>
               <a href="https://www.youtube.com">
-                <FaYoutube className="cursor-pointer hover:text-primary hover:scale-105 duration-200 bg-green-600" />
+                <FaYoutube className="cursor-pointer hover:text-green-600 hover:scale-105 duration-200 " />
               </a>
             </div>
           </div>
